@@ -1,0 +1,4 @@
+telepot 
+simplejson 
+requests 
+beautifulsoup4
