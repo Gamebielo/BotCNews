@@ -15,6 +15,10 @@ Bot criado como proposta de trabalho semestral da disciplina Interação Humano 
 
 - http://telepot.readthedocs.io/en/latest/#
 
+- https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+- http://docs.python-requests.org/en/v1.0.0/
+
 ## Bot em andamento
 
 
