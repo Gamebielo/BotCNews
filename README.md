@@ -1,6 +1,6 @@
 # BotCNews :iphone:
 
-Bot criado para fins acadêmicos, como proposta de trabalho semestral da disciplina Interação Humano Computador lecionada pelo Profº Me. Giuliano Bertoti em 2019, na instituição de ensino Fatec Professor Jessen Vidal (São José dos Campos)
+Bot criado como proposta de trabalho semestral da disciplina Interação Humano Computador lecionada pelo Profº  Giuliano Bertoti em 2019, na instituição de ensino Fatec Professor Jessen Vidal (São José dos Campos)
 
 ## Erros
 
