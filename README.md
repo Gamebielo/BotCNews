@@ -15,5 +15,7 @@ Bot criado para fins acadêmicos, como proposta de trabalho semestral da discipl
 
 - http://telepot.readthedocs.io/en/latest/#
 
+
+
 * **Gabriel de Brito Carvalho** - [gamebielo](https://github.com/gamebielo)
 * **Lucas Ribeiro Sonnewend Cardoso** - [lrsonnewend](https://github.com/lrsonnewend)
