@@ -24,5 +24,3 @@ Bot criado como proposta de trabalho semestral da disciplina Interação Humano 
 
 
 * **Gabriel de Brito Carvalho** - [gamebielo](https://github.com/gamebielo)
-* **Lucas Ribeiro Sonnewend Cardoso** - [lrsonnewend](https://github.com/lrsonnewend)
-* **Paulo Henrique da Silva Correia** - [paulohenrique7010](https://github.com/paulohenrique7010)
