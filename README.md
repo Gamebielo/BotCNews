@@ -19,8 +19,6 @@ Bot criado como proposta de trabalho semestral da disciplina Interação Humano 
 
 - http://docs.python-requests.org/en/v1.0.0/
 
-## Bot em andamento
-
 
 
 * **Gabriel de Brito Carvalho** - [gamebielo](https://github.com/gamebielo)
